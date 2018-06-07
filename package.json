@@ -1,11 +1,15 @@
 {
     "name": "code-snippets",
-    "displayName": "Code Snippets",
+    "displayName": "Code-Snippets",
     "description": "This extension contains code snippets for JavaScript.etc",
-    "version": "0.0.1",
-    "publisher": "code-snippets",
+    "version": "0.0.2",
+    "publisher": "erichuyue",
     "engines": {
         "vscode": "^1.24.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HuYuee/code-snippets"
     },
     "categories": [
         "Snippets"
