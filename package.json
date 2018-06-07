@@ -4,6 +4,7 @@
     "description": "This extension contains code snippets for JavaScript.etc",
     "version": "0.0.2",
     "publisher": "erichuyue",
+    "icon": "images/javascript.png",
     "engines": {
         "vscode": "^1.24.0"
     },
