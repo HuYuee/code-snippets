@@ -1,0 +1,49 @@
+{
+    "name": "code-snippets",
+    "displayName": "Code Snippets",
+    "description": "This extension contains code snippets for JavaScript.etc",
+    "version": "0.0.1",
+    "publisher": "code-snippets",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/axios.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/inherit.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/js.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/module.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/moment.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/react.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/reg.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/util.json"
+            }
+        ]
+    }
+}
