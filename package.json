@@ -2,9 +2,12 @@
     "name": "code-snippets",
     "displayName": "Code-Snippets",
     "description": "This extension contains code snippets for JavaScript.etc",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "erichuyue",
     "icon": "images/javascript.png",
+    "scripts": {
+        "pub": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.24.0"
     },
@@ -16,8 +19,7 @@
         "Snippets"
     ],
     "contributes": {
-        "snippets": [
-            {
+        "snippets": [{
                 "language": "javascript",
                 "path": "./snippets/axios.json"
             },
