@@ -2,7 +2,7 @@
     "name": "code-snippets",
     "displayName": "Code-Snippets",
     "description": "This extension contains code snippets for JavaScript.etc",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "erichuyue",
     "icon": "images/javascript.png",
     "scripts": {
